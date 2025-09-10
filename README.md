@@ -15,6 +15,8 @@ wait 3 seconds
 the weight was taken before and after the winter holiday, it could change the origin weight 
 
 
+Nom Prénom. (2025). Données taille/poids [Dataset]. GitHub. https://github.com/ton-utilisateur/ton-repo
+
 
 
 
