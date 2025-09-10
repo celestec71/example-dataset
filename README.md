@@ -14,3 +14,4 @@ wait 3 seconds
 # variables
 the weight was taken before and after the winter holiday, it could change the origin weight 
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
