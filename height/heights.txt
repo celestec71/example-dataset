@@ -1,9 +1,10 @@
-height     date            sensors used
+height     date            sensors used         Reference
 
-1.50      16/07/2021       Tape measure 
-2.00      18/08/2021       Tape measure 
-1.65      20/08/2021       Tape measure 
-1.70      01/10/2021       Tape measure 
-1.62      12/12/2021       Tape measure 
-1.81      06/01/2022       Tape measure 
-1.53      08/03/2022       Tape measure 
+1.50      16/07/2021       Tape measure         https://www.leroymerlin.fr/produits/metre-ruban-acier
+2.00      18/08/2021       Tape measure         https://www.amazon.fr/Stanley-2-34-795-Mesure-Ruban
+1.65      20/08/2021       Tape measure         https://www.amazon.fr/Stanley-2-34-795-Mesure-Ruban
+1.70      01/10/2021       Tape measure         https://www.amazon.fr/Stanley-2-34-795-Mesure-Ruban
+1.62      12/12/2021       Tape measure         https://www.amazon.fr/Stanley-2-34-795-Mesure-Ruban
+1.81      06/01/2022       Tape measure         https://www.leroymerlin.fr/produits/metre-ruban-acier
+1.53      08/03/2022       Tape measure         https://www.leroymerlin.fr/produits/metre-ruban-acier
+
